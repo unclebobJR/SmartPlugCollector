@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<modules>
+	<module id='c9340d0dfc0742FAKE97bda1ddb782'>
+		<cumulative_logs>
+			<cumulative_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>gas_consumed</type>
+				<unit>m3</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:00:00+00:00">
+					<measurement log_date="2014-10-12T11:00:00+00:00">1967.35</measurement>
+				</period>
+			</cumulative_log>
+		</cumulative_logs>
+		<point_logs>
+		</point_logs>
+	</module>
+	<module id='bd906d681e7a4FAKE29b319a917f5c0'>
+		<vendor_name>ISkra</vendor_name>
+		<vendor_model>ISk5\2ME382-1003</vendor_model>
+		<cumulative_logs>
+			<cumulative_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>electricity_consumed</type>
+				<unit>Wh</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:22:28+00:00">
+					<measurement log_date="2014-10-12T11:22:28+00:00" tariff_type="nl_peak">5226755</measurement>
+				</period>
+			</cumulative_log>
+			<cumulative_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>electricity_consumed</type>
+				<unit>Wh</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:22:28+00:00">
+					<measurement log_date="2014-10-12T11:22:28+00:00" tariff_type="nl_offpeak">4178042</measurement>
+				</period>
+			</cumulative_log>
+			<cumulative_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>electricity_produced</type>
+				<unit>Wh</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:22:28+00:00">
+					<measurement log_date="2014-10-12T11:22:28+00:00" tariff_type="nl_peak">0</measurement>
+				</period>
+			</cumulative_log>
+			<cumulative_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>electricity_produced</type>
+				<unit>Wh</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:22:28+00:00">
+					<measurement log_date="2014-10-12T11:22:28+00:00" tariff_type="nl_offpeak">1803</measurement>
+				</period>
+			</cumulative_log>
+		</cumulative_logs>
+		<point_logs>
+			<point_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>electricity_consumed</type>
+				<unit>W</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:22:28+00:00">
+					<measurement log_date="2014-10-12T11:22:28+00:00">450</measurement>
+				</period>
+			</point_log>
+			<point_log>
+				<last_consecutive_log_date>2014-10-12T11:15:00+00:00</last_consecutive_log_date>
+				<type>electricity_produced</type>
+				<unit>W</unit>
+				<period start_date="2012-12-06T16:00:00+00:00" end_date="2014-10-12T11:22:28+00:00">
+					<measurement log_date="2014-10-12T11:22:28+00:00">0</measurement>
+				</period>
+			</point_log>
+		</point_logs>
+	</module>
+</modules>
